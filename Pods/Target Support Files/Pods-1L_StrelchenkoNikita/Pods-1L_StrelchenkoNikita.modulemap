@@ -1,0 +1,6 @@
+framework module Pods_1L_StrelchenkoNikita {
+  umbrella header "Pods-1L_StrelchenkoNikita-umbrella.h"
+
+  export *
+  module * { export * }
+}
